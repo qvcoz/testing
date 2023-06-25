@@ -62,7 +62,7 @@ https://github.com/qvco/yaylib
 
 今回の記事では、難しい環境構築をスキップできる「Repl」というブラウザ上のコーディングツールを使用して解説します。
 
-replit の登録は以下のリンクから行ってください。
+Repl の登録は以下のリンクから行ってください。
 
 <a href="https://replit.com/">https://replit.com/</a>
 
