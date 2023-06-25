@@ -148,7 +148,7 @@ for post in timeline.posts: # タイムラインの投稿を一つずつ取り�
 
 他にもたくさん紹介したいところですが、記事が長くなりすぎるので、今回の紹介は以上にさせていただきます。
 
-より詳しい機能機能の種類や内容は、「yaylib」の公式ドキュメントを参考にしてください。
+もっと詳しい機能の種類や内容は、「yaylib」の公式ドキュメントを参考にしてください。
 
 <a href="https://github.com/qvco/yaylib/blob/main/docs/README.md">「yaylib」- 公式ドキュメント</a>
 
