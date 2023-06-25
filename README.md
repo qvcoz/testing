@@ -1,5 +1,11 @@
 # 【Yay!】ついに API が公開！投稿やいいねを自動化してみた！
 
+<div align="center">
+    <a href="https://github.com/othneildrew/Best-README-Template">
+        <img src="https://github.com/qvco/yaylib/assets/77382767/5265b956-55b7-466c-8cdb-cf0f3abed946" alt="Logo" height="300px">
+    </a>
+</div>
+
 こんにちは！ p と申します(^^)
 
 皆さんは、最近 Yay!の API が公開されたことをご存知ですか？
@@ -42,7 +48,7 @@ GitHub アカウントの登録方法は、以下の記事を参考にしてく�
 
 #### 2. yaylib のプロジェクトをスターする
 
-GitHub のアカウント登録が完了したら、以下のリンクから「yaylib」をスターします。
+GitHub のアカウント登録が完了したら、以下のリンクから「yaylib」をスターする必要があります。
 
 https://github.com/qvco/yaylib
 
@@ -143,6 +149,11 @@ for post in timeline.posts: # タイムラインの投稿を一つずつ取り�
 より詳しい機能機能の種類や内容は、「yaylib」の公式ドキュメントを参考にしてください。
 
 <a href="https://github.com/qvco/yaylib/blob/main/docs/README.md">「yaylib」- 公式ドキュメント</a>
+
+また、「yaylib」のDiscordサーバーに参加すると、使い方がわからない場合には質問したり、開発メンバーの一員として携わることもできるそうです。
+
+<a href="https://discord.gg/MEuBfNtqRN">Discordサーバーに参加する</a>
+
 
 ## まとめ
 
